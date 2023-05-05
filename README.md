@@ -50,7 +50,7 @@
 ## 7️⃣ 결과
 
 <img width="365" alt="image" src="https://user-images.githubusercontent.com/122995812/236396646-7e10c1b1-3f08-4686-a92d-b7c49c2305c3.png">
-[EfficientNetB5]
+>> [EfficientNetB5]
 
 Test_acc : 0.86 </br>
 Val_acc : 0.79 </br>
