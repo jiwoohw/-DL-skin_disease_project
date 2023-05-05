@@ -36,14 +36,13 @@
 </br>
 
 ## 6️⃣ 성능 개선
+
+- 정상 데이터 200장 수집
+- Fine Tunning
 - Data Augmentation
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/122995812/236395757-d981092e-6813-4d75-a317-b993c74161a4.png">
 - 증강 후, 전체적으로 수치가 낮아짐 
 -> 의료 데이터 특성상, 증강 과정에서 특정 병변이 사라지거나 작아진 걸로 추정
-
-- 정상 데이터 200장 수집
-- Fine Tunning
-
 
 </br>
 
