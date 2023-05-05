@@ -49,7 +49,6 @@
 ## 7️⃣ 결과 [EfficientNetB5]
 
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/122995812/236398587-f7be1dc8-edda-476f-8881-9f7c52467af5.png">
-> 
 </br>
 
 ## 8️⃣ 검증
